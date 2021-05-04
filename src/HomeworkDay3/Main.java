@@ -20,7 +20,7 @@ public class Main {
 
     UserManager userManager = new UserManager();
     userManager.email = "mahmuttyesilal@gmail.com";
-    userManager.password = "1111111";
+    userManager.password = "1111111.";
     userManager.update(student);
 
     }
